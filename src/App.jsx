@@ -39,6 +39,7 @@ function App() {
           </svg>
           <h2>Documentation</h2>
           <p>Your questions, answered</p>
+          <p>Your questions, answered, again</p>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
